@@ -24,7 +24,7 @@ from scipy import stats
 
 
 #%% a
-houseprice = pd.read_csv("houseprice.csv")
+#houseprice = pd.read_csv("houseprice.csv")
 
 #%% b
 display(houseprice)
